@@ -8,6 +8,7 @@ namespace Proyecto2025.BE.Models
         public string nombre { get; set; }
         public string dapellido { get; set; }
         public DateTime FechaNacimiento { get; set; }
+        public ICollection<AlumnoMateria>? AlumnoMaterias { get; set; }
 
     }
 }

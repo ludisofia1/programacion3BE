@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sofim\\Documents\\proyecto\\Proyecto2025.BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj": {}
+    "C:\\Users\\sofim\\OneDrive\\Documentos\\proyecto programacion final\\programacion3BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sofim\\Documents\\proyecto\\Proyecto2025.BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj": {
+    "C:\\Users\\sofim\\OneDrive\\Documentos\\proyecto programacion final\\programacion3BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sofim\\Documents\\proyecto\\Proyecto2025.BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj",
+        "projectUniqueName": "C:\\Users\\sofim\\OneDrive\\Documentos\\proyecto programacion final\\programacion3BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj",
         "projectName": "Proyecto2025.BE",
-        "projectPath": "C:\\Users\\sofim\\Documents\\proyecto\\Proyecto2025.BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj",
+        "projectPath": "C:\\Users\\sofim\\OneDrive\\Documentos\\proyecto programacion final\\programacion3BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj",
         "packagesPath": "C:\\Users\\sofim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sofim\\Documents\\proyecto\\Proyecto2025.BE\\Proyecto2025.BE\\obj\\",
+        "outputPath": "C:\\Users\\sofim\\OneDrive\\Documentos\\proyecto programacion final\\programacion3BE\\Proyecto2025.BE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

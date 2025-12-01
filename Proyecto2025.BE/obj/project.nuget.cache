@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "628vIyPfWQ8=",
+  "dgSpecHash": "u1AhibFLXo0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sofim\\Documents\\proyecto\\Proyecto2025.BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj",
+  "projectFilePath": "C:\\Users\\sofim\\OneDrive\\Documentos\\proyecto programacion final\\programacion3BE\\Proyecto2025.BE\\Proyecto2025.BE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sofim\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\sofim\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
